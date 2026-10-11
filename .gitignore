@@ -31,3 +31,9 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+/hardaudit.zip
+/CLAUDE.md
+
+# Build output
+/bulwark
+bulwark-report.md
